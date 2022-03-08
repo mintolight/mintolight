@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mintolight
+- 👀 I’m interested in front end development, react.
+- 🌱 I’m currently learning react.
